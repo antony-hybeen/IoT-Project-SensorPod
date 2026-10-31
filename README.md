@@ -10,31 +10,31 @@ Required Hardware Components:
 
 - Xiao Seeed C3
 
-Main esp-32 based microcontroller
+  Main esp-32 based microcontroller
 
 - BME-280
 
-Temperature,humidity,atmospheric pressure and altitude sensor.
+  Temperature,humidity,atmospheric pressure and altitude sensor.
 
 - MLX90614
 
-Non-contact Infrared temperature sensor
+  Non-contact Infrared temperature sensor
 
 - QMC5883L
 
-3-Axis magnetic field sensing and heading sensor.
+  3-Axis magnetic field sensing and heading sensor.
 
 - Protoboard
 
-For circuit assembling
+  For circuit assembling
 
 - Soldering Components
 
-To solder and combining electrical components
+  To solder and combining electrical components
 
 - Connecting Wires
 
-To establish connection between components
+  To establish connection between components
 
 Features:
 
