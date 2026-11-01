@@ -71,7 +71,19 @@ Future Improvements:
 Project Status:
 - Prototype / Ongoing Development
 
+Schematic diagram-
 
+[Schematic_SENSOR-POD_Antony-Hybeen_fixed.pdf](https://github.com/user-attachments/files/34233550/Schematic_SENSOR-POD_Antony-Hybeen_fixed.pdf)
+
+The pictures of the hardware are gven below:
+
+<img width="4284" height="5<img width="4284" height="5712" alt="IMG_4518" src="https://github.com/user-attachments/assets/ca747690-347e-49af-84c0-7825929b82bb" />
+712" alt="IMG_4516" src="https://github.com/user-attachments/assets/e039d547-6695-4da6-b4cf-6e3f0c06088c" />
+
+<img width="4284" height="5712" alt="IMG_4523" src="https://github.com/user-attachments/assets/fdea4417-c1a9-4499-8762-211d842e246e" />
+<img width="5712" height="4284" alt="IMG_4521" src="https://github.com/user-attachments/assets/9675270c-87e2-4221-b4dd-98b136a177f4" />
+<img width="4284" height="5712" alt="IMG_4516" src="https://github.com/user-attachments/assets/2bf0c080-71c2-4052-8ef1-42b56d812ec9" />
+<img width="865" height="676" alt="IMG_4522" src="https://github.com/user-attachments/assets/31b53b1f-5f88-4886-9370-569917f0b3b6" />
 
 
 
